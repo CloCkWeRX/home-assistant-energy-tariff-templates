@@ -1,5 +1,7 @@
 # home-assistant-energy-tariff-templates
-An aggregation of all of the energy tarriff templates
+An aggregation of all of the energy tarriff templates, addons and similar.
+
+Missing one? Send in a PR!
 
 # Electricity Tarriff Addons or Templates for Home Assistant
 
