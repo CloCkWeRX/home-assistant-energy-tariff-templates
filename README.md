@@ -25,6 +25,10 @@ Missing one? Send in a PR!
 - [HomeAssistant-OctopusEnergy](https://github.com/BottlecapDave/HomeAssistant-OctopusEnergy) by [@BottlecapDave](https://github.com/BottlecapDave/)
 - https://www.speaktothegeek.co.uk/2023/02/off-peak-tariffs-in-home-assistants-energy-dashboard/
 
+## Spain
+
+- [Datadis](https://github.com/uvejota/homeassistant-edata?tab=readme-ov-file#Configurar-la-tarificaci%C3%B3n)
+
 # Other Electric Energy companies by country
 
 Source:  https://query.wikidata.org/
