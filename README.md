@@ -7,7 +7,9 @@ An aggregation of all of the energy tarriff templates
 
 https://github.com/frlequ/home-assistant-network-tariff
 
+## Octopus Energy (UK)
 
+https://github.com/BottlecapDave/HomeAssistant-OctopusEnergy
 
 # Other Electric Energy companies by country
 
