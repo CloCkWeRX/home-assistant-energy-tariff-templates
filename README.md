@@ -3,6 +3,10 @@ An aggregation of all of the energy tarriff templates
 
 # Electricity Tarriff Addons or Templates for Home Assistant
 
+## Australia
+
+https://community.home-assistant.io/t/guide-australian-electricity-demand-tariffs-e-g-agl/436298
+
 ## Slovenian Network Tariff (Omrežnina)
 
 https://github.com/frlequ/home-assistant-network-tariff
