@@ -24,3 +24,8 @@ SELECT DISTINCT ?company ?companyLabel ?countryLabel ?website ?description WHERE
 }
 LIMIT 1000
 ```
+
+### Is your electricity supplier missing?
+
+Head to wikidata, look them up and make sure they have an *industry* set of wd:Q2316331; as well as being an business or organization.
+
