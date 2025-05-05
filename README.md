@@ -8,8 +8,9 @@ Missing one? Send in a PR!
 ## Australia
 
 - https://community.home-assistant.io/t/guide-australian-electricity-demand-tariffs-e-g-agl/436298
-- [AusGrid TOU Tarrifs](https://community.home-assistant.io/t/energy-sensor-price-to-handle-changing-energy-tariff-rates/349080 (2021)
+- [AusGrid TOU Tarrifs](https://community.home-assistant.io/t/energy-sensor-price-to-handle-changing-energy-tariff-rates/349080) (2021)
   - Powershop NSW example included
+  - [Globird](https://community.home-assistant.io/t/energy-sensor-price-to-handle-changing-energy-tariff-rates/349080/18?u=clockwerx)
 - https://www.reddit.com/r/homeassistant/comments/193j204/calculate_cost_per_kw_using_electricity_rates/
 
 ## Slovenian Network Tariff (Omrežnina)
