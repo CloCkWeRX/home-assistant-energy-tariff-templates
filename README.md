@@ -22,6 +22,7 @@ SELECT DISTINCT ?company ?companyLabel ?countryLabel ?website ?description WHERE
     bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en".
   }
 }
+ORDER BY ?countryLabel ?companyLabel
 LIMIT 1000
 ```
 
