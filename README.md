@@ -15,6 +15,7 @@ https://github.com/frlequ/home-assistant-network-tariff
 ## Octopus Energy (UK)
 
 https://github.com/BottlecapDave/HomeAssistant-OctopusEnergy
+https://www.speaktothegeek.co.uk/2023/02/off-peak-tariffs-in-home-assistants-energy-dashboard/
 
 # Other Electric Energy companies by country
 
