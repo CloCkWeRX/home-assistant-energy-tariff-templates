@@ -8,7 +8,7 @@ Source:  https://query.wikidata.org/
 SELECT ?company ?companyLabel ?countryLabel ?website WHERE {
   ?company wdt:P31 wd:Q4830453;        # Instance of business
            wdt:P452 wd:Q2316331;        # Industry: Electric power industry
-           wdt:P17 ?country.           # Country
+  OPTIONAL { ?company wdt:P17 ?country. } # Country
   OPTIONAL { ?company wdt:P856 ?website. } # Official website
 
   SERVICE wikibase:label { 
