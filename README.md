@@ -5,18 +5,18 @@ An aggregation of all of the energy tarriff templates
 
 ## Australia
 
-https://community.home-assistant.io/t/guide-australian-electricity-demand-tariffs-e-g-agl/436298
-https://community.home-assistant.io/t/energy-sensor-price-to-handle-changing-energy-tariff-rates/349080
-https://www.reddit.com/r/homeassistant/comments/193j204/calculate_cost_per_kw_using_electricity_rates/
+- https://community.home-assistant.io/t/guide-australian-electricity-demand-tariffs-e-g-agl/436298
+- https://community.home-assistant.io/t/energy-sensor-price-to-handle-changing-energy-tariff-rates/349080
+- https://www.reddit.com/r/homeassistant/comments/193j204/calculate_cost_per_kw_using_electricity_rates/
 
 ## Slovenian Network Tariff (Omrežnina)
 
-https://github.com/frlequ/home-assistant-network-tariff
+- https://github.com/frlequ/home-assistant-network-tariff
 
 ## Octopus Energy (UK)
 
-https://github.com/BottlecapDave/HomeAssistant-OctopusEnergy
-https://www.speaktothegeek.co.uk/2023/02/off-peak-tariffs-in-home-assistants-energy-dashboard/
+- https://github.com/BottlecapDave/HomeAssistant-OctopusEnergy
+- https://www.speaktothegeek.co.uk/2023/02/off-peak-tariffs-in-home-assistants-energy-dashboard/
 
 # Other Electric Energy companies by country
 
