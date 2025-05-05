@@ -12,7 +12,7 @@ Missing one? Send in a PR!
   - [Powershop EV NSW](https://community.home-assistant.io/t/energy-sensor-price-to-handle-changing-energy-tariff-rates/349080/2?u=clockwerx) (2021)
   - [SRP Energy Tariff EZ-3](https://community.home-assistant.io/t/energy-sensor-price-to-handle-changing-energy-tariff-rates/349080/17?u=clockwerx) (2024)
   - [Globird TOU 3-tariff plan](https://community.home-assistant.io/t/energy-sensor-price-to-handle-changing-energy-tariff-rates/349080/18?u=clockwerx) (2024)
-- https://www.reddit.com/r/homeassistant/comments/193j204/calculate_cost_per_kw_using_electricity_rates/
+- [Ovo](https://www.reddit.com/r/homeassistant/comments/193j204/comment/khbb4xe/)
 
 ## Slovenian Network Tariff (Omrežnina)
 
