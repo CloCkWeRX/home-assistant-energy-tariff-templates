@@ -1,11 +1,15 @@
 # home-assistant-energy-tariff-templates
 An aggregation of all of the energy tarriff templates
 
-# Slovenian Network Tariff (Omrežnina)
+# Electricity Tarriff Addons or Templates for Home Assistant
+
+## Slovenian Network Tariff (Omrežnina)
 
 https://github.com/frlequ/home-assistant-network-tariff
 
-# Electric Energy companies by country
+
+
+# Other Electric Energy companies by country
 
 Source:  https://query.wikidata.org/ -> https://w.wiki/D$Jn
 ```
