@@ -13,7 +13,9 @@ An aggregation of all of the energy tarriff templates
 
 - https://github.com/frlequ/home-assistant-network-tariff
 
-## Octopus Energy (UK)
+## UK
+
+### Octopus Energy
 
 - [HomeAssistant-OctopusEnergy](https://github.com/BottlecapDave/HomeAssistant-OctopusEnergy) by @BottlecapDave
 - https://www.speaktothegeek.co.uk/2023/02/off-peak-tariffs-in-home-assistants-energy-dashboard/
