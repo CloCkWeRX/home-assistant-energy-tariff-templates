@@ -6,6 +6,7 @@ An aggregation of all of the energy tarriff templates
 ## Australia
 
 https://community.home-assistant.io/t/guide-australian-electricity-demand-tariffs-e-g-agl/436298
+https://community.home-assistant.io/t/energy-sensor-price-to-handle-changing-energy-tariff-rates/349080
 
 ## Slovenian Network Tariff (Omrežnina)
 
