@@ -3,6 +3,45 @@ An aggregation of all of the energy tarriff templates, addons and similar.
 
 Missing one? Send in a PR!
 
+
+
+# Generate with ChatGPT or similar
+
+## Template sensor for current tarriff
+
+The easiest way to quickly generate a [Template](https://www.home-assistant.io/docs/configuration/templating/) is via a LLM.
+
+[Example](https://chat.openai.com/?model=gpt-4&prompt=Generate%20a%20Home%20Assistant%20template%20sensor%20for%20the%20following%20energy%20rate%20tarriffs%0A01%3A00%20to%2006%3A00%20is%20%22offpeak%22%0A10%3A00%20to%2015%3A00%20is%20%22shoulder%22%0AAll%20other%20times%20are%20%22peak%22
+)
+
+You should end up with a YAML template such as:
+```
+template:
+  - sensor:
+      - name: "Energy Tariff"
+        unique_id: energy_tariff
+        state: >
+          {% set now = now().time() %}
+          {% if now >= today_at("01:00") and now < today_at("06:00") %}
+            offpeak
+          {% elif now >= today_at("10:00") and now < today_at("15:00") %}
+            shoulder
+          {% else %}
+            peak
+          {% endif %}
+        icon: mdi:clock-time-three
+```
+
+When translating into the UI.
+
+![image](https://github.com/user-attachments/assets/c3844044-80e4-4157-b292-0ee755812fb8)
+
+
+
+## Template sensor for current price
+
+
+
 # Electricity Tarriff Addons or Templates for Home Assistant
 
 ## Australia
