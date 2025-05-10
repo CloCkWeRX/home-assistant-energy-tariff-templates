@@ -3,6 +3,8 @@ An aggregation of all of the energy tarriff templates, addons and similar.
 
 Missing one? Send in a PR!
 
+Recommended structure: Create two template sensors, one for current tarriff, one for the price of the tarriff.
+
 
 
 # Generate with ChatGPT or similar
