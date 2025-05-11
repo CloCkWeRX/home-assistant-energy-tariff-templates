@@ -38,6 +38,7 @@ When translating into the UI.
 
 ![image](https://github.com/user-attachments/assets/c3844044-80e4-4157-b292-0ee755812fb8)
 
+https://my.home-assistant.io/redirect/developer_template/
 
 
 ## Template sensor for current price
